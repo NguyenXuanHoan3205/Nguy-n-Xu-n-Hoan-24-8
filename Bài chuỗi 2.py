@@ -11,4 +11,6 @@ print((a.replace("i'm a cat","I'M A CAT")))
 print((a.replace("i'm a cat","i'M a cAT")))
 print((a.replace("i'm a cat","i'm a cat")))
 
-                 
+print(a.upper())
+print(a.title())
+
